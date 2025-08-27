@@ -13,3 +13,8 @@ This project involves the design and development of a new website for BrightFutu
    Vision: To become South Africa’s most trusted tutoring partner across all grades.
    Target Audience: Grade 8-12 learners, parents, homeschool learners, and adult learners upgrading matric.
 # Core Website Goals & Objectives  
+  Acquisition: Attract parents and students to sign up for tutoring packages.
+  Conversion: Provide an online booking and enquiry platform to streamline operations.
+  Credibility: Build trust and credibility through detailed tutor bios, subject information, and success stories.
+  Information: Showcase subjects offered, package pricing, and tutor schedules.
+This website is proprietary and is intellectual property of BrightFuture Tutoring Services
