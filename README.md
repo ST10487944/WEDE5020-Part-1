@@ -1,9 +1,6 @@
 # WEDE5020-Part-1
 # BrightFuture Tutoring Services Website
 A professional website for BrightFuture Tutoring Services, designed to centralize information, showcase offerings, and drive bookings/enquiries.
-# Live Demo
-
-
 # Project Overview
 This project involves the design and development of a new website for BrightFuture Tutoring Services. The business currently operates primarily social media (Whatsapp) and lacks central, professional web presence. This website aims to solve that by providing a modern, user-friendly platform to achieve key business goals.
 # Business Overview
